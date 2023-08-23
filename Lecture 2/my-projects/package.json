@@ -1,0 +1,25 @@
+{
+  "name": "my-projects",
+  "version": "1.0.1",
+  "description": "This is my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "MrPkMehta",
+    "web",
+    "development",
+    "pk",
+    "pw",
+    "skills"
+  ],
+  "author": "Priyamanshu Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-script": "^2.0.5"
+  }
+}
