@@ -1,0 +1,19 @@
+{
+  "name": "assignment",
+  "version": "2.0.3",
+  "description": "This is my 1st nodeJS assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment",
+    "node",
+    "js",
+    "pw",
+    "skills",
+    "question1"
+  ],
+  "author": "MrPkMehta",
+  "license": "ISC"
+}
